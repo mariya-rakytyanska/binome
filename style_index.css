@@ -1,0 +1,92 @@
+body {
+  //background-image: url("https://64.media.tumblr.com/bb2d7e1f6eeed3069a6c09bf9e9087b7/tumblr_o31e24cVXC1tbv296o1_400.gifv");
+  
+  background-image : url('https://htmlcolorcodes.com/assets/images/colors/dark-blue-color-solid-background-1920x1080.png');
+}
+h1 {
+  text-align: center;
+  font-family: Arial;
+  font-style : italic;
+  font-size: 60px;
+  background-image: url('https://www.ppt-backgrounds.net/thumbs/rainbow-template-background.jpg');
+  background-size: cover;
+  background_clip : text;
+  -webkit-background-clip: text;
+  color : transparent;
+}
+
+p {
+ color: white;
+ text-align: center;
+ font-family: Arial;
+ position:relative;
+ font-size: 15px;
+ top:50px;
+}
+
+button{
+  position: absolute;
+  bottom: 65%;
+  right: 20%;   
+}
+
+
+p1 {
+ color: white;
+ text-align: center;
+ font-family: Arial;
+ position:relative;
+ left: 45%;
+ font-size: 15px; 
+ top:500px;
+
+}
+
+input{
+  position: absolute;
+  color: red;
+  bottom: 65%;
+  right : 40%;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+n{
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  position:relative;
+  font-size: 15px;
+  bottom: 65%;
+  left: 20%;  
+}
+
+m{
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  position:absolute;
+  font-size: 15px;
+  bottom: 30%;
+  left: 45%;  
+}
+
+k{
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  position: absolute;
+  left: 30% ;
+  font-size: 15px; 
+  top: 40%;
+
+}
+
+f{
+  position: absolute;
+  left: 15%;
+}
