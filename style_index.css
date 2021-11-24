@@ -33,7 +33,7 @@ button{
 
 p1 {
  color: white;
- text-align: center;
+ text-align: justify;
  font-family: Arial;
  position:relative;
  left: 45%;
@@ -57,6 +57,7 @@ a:link {
 
 n{
   color: white;
+  
   text-align: center;
   font-family: Arial;
   position:relative;
