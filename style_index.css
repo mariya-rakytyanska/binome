@@ -55,7 +55,7 @@ a:link {
   text-decoration: none;
 }
 
-n{
+intro{
   color: white;
   
   text-align: center;
@@ -66,7 +66,7 @@ n{
   left: 25%;  
 }
 
-m{
+out{
   color: white;
   text-align: center;
   font-family: Arial;
@@ -76,7 +76,7 @@ m{
   left: 45%;  
 }
 
-k{
+fact{
   color: white;
   text-align: center;
   font-family: Arial;
