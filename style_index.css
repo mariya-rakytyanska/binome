@@ -47,7 +47,7 @@ a:link {
   left: 25%;  
 }
 
-out{
+.out{
   color: white;
   text-align: center;
   font-family: Arial;
@@ -57,7 +57,7 @@ out{
   left: 45%;  
 }
 
-fact{
+.fact{
   color: white;
   text-align: center;
   font-family: Arial;
