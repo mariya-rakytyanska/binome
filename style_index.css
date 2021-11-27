@@ -37,34 +37,24 @@ a:link {
 }
 
 .intro{
-  color: red;
-  
+  color: white;
   text-align: center;
   font-family: Arial;
-  position:relative;
   font-size: 15px;
-  bottom: 65%;
-  left: 25%;  
 }
 
 .out{
   color: white;
   text-align: center;
   font-family: Arial;
-  position:absolute;
   font-size: 15px;
-  bottom: 30%;
-  left: 45%;  
 }
 
 .fact{
   color: white;
   text-align: center;
   font-family: Arial;
-  position: absolute;
-  left: 30% ;
   font-size: 15px; 
-  top: 40%;
 
 }
 
